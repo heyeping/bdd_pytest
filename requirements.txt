@@ -1,0 +1,9 @@
+allure_python_commons==2.9.45
+Appium_Python_Client==2.1.2
+loguru==0.5.3
+mitmproxy==7.0.4
+pyserial==3.5
+pytest==6.2.5
+pytest_bdd==5.0.0
+requests==2.26.0
+selenium==4.1.0
